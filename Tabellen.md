@@ -11,6 +11,10 @@ import:  https://raw.githubusercontent.com/liascript-templates/plantUML/master/R
 
 # Einbettung von interaktivien Tabellen
 
+Diagrammansicht aktivieren
+
+⇓
+
 | Animal          | weight in kg | Lifespan years | Mitogen |
 | --------------- | ------------:| --------------:| -------:|
 | Mouse           |        0.028 |             02 |      95 |
